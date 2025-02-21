@@ -1,5 +1,5 @@
 import yayJpg from '../assets/yay.jpg';
-import './global.css';
+import '../global.css';
 
 export default function HomePage() {
   return (
